@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 20, 2017
 
 ### Student Name:  
-(First and Last Name)
+Mackenzie Kern
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We had to edit the code so that it calculated the tax rate for single people all the way through people that were the head of the household. Then we had to finish the code for the clear button. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mackenziekern.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Save early and save often (learned that the hard way)
+2. How to properly utilize the if/else statements. 
+3. How helpful the if/else statements are in writing code. 
 
